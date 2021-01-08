@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+   <student>			
+     <regno>30122</regno>
+     <name>ganesh</name>
+     <avg>92</avg>
+     <dob>29-08-2000</dob>
+     <time>10:00</time>
+     <mobile no="9177309209"/>		
+     <distinction>YES</distinction>
+  </student>
+…  <student>			
+     <regno>30132</regno>
+     <name>srinidhi</name>
+     <avg>93</avg>
+     <dob>07-04-2002</dob>
+     <time>11:00</time>
+     <mobile no="9951194520"/>		
+     <distinction>YES</distinction>
+  </student>
+… <student>			
+     <regno>30158</regno>
+     <name>frnj</name>
+     <avg>80</avg>
+     <dob>25-08-2000</dob>
+     <time>1:05</time>
+     <mobile no="9849984900"/>		
+     <distinction>YES</distinction>
+  </student>
+   <student>			
+     <regno>30122</regno>
+     <name>ABC</name>
+     <avg>75</avg>
+     <dob>15-08-2002</dob>
+     <time>7:30</time>
+     <mobile no="9859984900"/>		
+     <distinction>YES</distinction>
+  </student>
+… <student>			
+     <regno>3082</regno>
+     <name>vamsi</name>
+     <avg>92</avg>
+     <dob>16-10-1998</dob>
+     <time>4:00</time>
+     <mobile no="9849984900"/>		
+     <distinction>YES</distinction>
+  </student>
+…
+…
+…
+</students_info>
