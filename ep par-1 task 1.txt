@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+     <name>ganesh</name>
+      <id> 30122 </id>
+      <branch> cse </branch>
+       <cgpa> 9 </cgpa>
+  </student>
+  <student>
+  <name>sadiq</name>
+      <id> 31506 </id>
+      <branch> cse </branch>
+       <cgpa> 9.5 </cgpa>
+  </student>
+  <student>
+  <name>vamsi</name>
+      <id> 1111 </id>
+      <branch> ece </branch>
+       <cgpa> 8 </cgpa>
+  </student>
+  <student>
+  <name>hari</name>
+      <id> 123 </id>
+      <branch> mec </branch>
+       <cgpa> 7 </cgpa>
+  </student>
+  <student>
+  <name>khaja</name>
+      <id> 386 </id>
+      <branch> eee </branch>
+       <cgpa> 8.5 </cgpa>
+  </student>
+</students>
